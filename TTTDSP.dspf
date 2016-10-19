@@ -1,0 +1,57 @@
+     A          R MAIN                      CA03(03)
+     A                                  5 21'------------------------------'
+     A                                      COLOR(WHT)
+     A                                 15 21'------------------------------'
+     A                                      COLOR(WHT)
+     A                                 10 22' '
+     A                                      COLOR(WHT)
+     A                                  6 20'|'
+     A                                      COLOR(WHT)
+     A                                  7 20'|'
+     A                                      COLOR(WHT)
+     A                                  8 20'|'
+     A                                      COLOR(WHT)
+     A                                  9 20'|'
+     A                                      COLOR(WHT)
+     A                                 10 20'|'
+     A                                      COLOR(WHT)
+     A                                 11 20'|'
+     A                                      COLOR(WHT)
+     A                                 12 20'|'
+     A                                      COLOR(WHT)
+     A                                 13 20'|'
+     A                                      COLOR(WHT)
+     A                                  6 51'|'
+     A                                      COLOR(WHT)
+     A                                  7 51'|'
+     A                                      COLOR(WHT)
+     A                                  8 51'|'
+     A                                      COLOR(WHT)
+     A                                  9 51'|'
+     A                                      COLOR(WHT)
+     A                                 10 51'|'
+     A                                      COLOR(WHT)
+     A                                 11 51'|'
+     A                                      COLOR(WHT)
+     A                                 12 51'|'
+     A                                      COLOR(WHT)
+     A                                 13 51'|'
+     A                                      COLOR(WHT)
+     A            P7             2   O  7 25
+     A            P8             2      7 35
+     A            P9             2      7 45
+     A            P1             2     13 25
+     A            P2             2     13 35
+     A            P3             2     13 45
+     A            P4             2     10 25
+     A            P5             2     10 35
+     A            P6             2     10 45
+     A                                 14 20'|'
+     A                                      COLOR(WHT)
+     A                                 14 51'|'
+     A                                      COLOR(WHT)
+     A            TEXT          30   O 17 21COLOR(WHT)
+     A            POS            1   B 19 42
+     A                                 19 31'Your move:'
+     A          R WIN                       WINDOW(6 13 9 43)
+     A            WINTEXT       30   O  4  7
